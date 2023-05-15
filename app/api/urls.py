@@ -23,7 +23,7 @@ from user.views import home, sleep_improvements
 
 urlpatterns = [
     path("", home, name="home"),
-    path("users/", include('user.urls'), name="users"),
-    path("sleep/improvements/", sleep_improvements, name="sleep_improvements"),
+    path("api/users/", include('user.urls'), name="users"),
+    path("api/sleep/improvements/", sleep_improvements, name="sleep_improvements"),
     path('admin/', admin.site.urls),
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
