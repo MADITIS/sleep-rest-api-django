@@ -1,6 +1,8 @@
 # Sleep Rest API
 ![Version](https://img.shields.io/badge/version-0.0.1--beta-orange)
 
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+
 ![Django](https://img.shields.io/badge/Django-orange?style=for-the-badge&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
