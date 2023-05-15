@@ -1,8 +1,13 @@
 # Sleep Rest API
+![Version](https://img.shields.io/badge/version-0.0.1--beta-orange)
 
+![Django](https://img.shields.io/badge/Django-orange?style=for-the-badge&logo=django)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 [![Docker](https://img.shields.io/badge/docker-blue?logo=docker)](https://www.docker.com/)
-[![Django](https://img.shields.io/badge/django-blue?logo=django)](https://www.djangoproject.com/)
-[![Python](https://img.shields.io/badge/python-blue?logo=python)](https://www.python.org/)
+
+
+
 [![Django Rest Framework](https://img.shields.io/badge/django%20rest%20framework-blue)](https://www.django-rest-framework.org/)
 
 
